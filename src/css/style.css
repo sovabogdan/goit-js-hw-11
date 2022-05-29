@@ -6,7 +6,7 @@
     width: 100vw;
     padding-top: 15px;
     padding-bottom: 15px;
-    background-color: #82b74b;
+    background-color: #4b5fb7;
     z-index: 10;
 }
 
@@ -31,7 +31,7 @@ button[type='submit'] {
 }
 
 button[type='submit']:hover .search-svg {
-    fill: #82b74b;
+    fill: #4b5fb7;
 }
 
 /* -----------------IMG--------------- */
@@ -89,13 +89,13 @@ img {
 .load-more {
     display: block;
     margin: 10px auto;
-    border: 2px solid #82b74b;
+    border: 2px solid #4b95b7;
     border-radius: 7px;
     background-color: transparent;
 }
 
 .load-more:hover {
-    background-color: #82b74b;
+    background-color: #4b5fb7;
     border: 2px solid inherit;
 }
 
